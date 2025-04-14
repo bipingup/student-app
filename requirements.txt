@@ -1,4 +1,5 @@
-pandas 
+streamlit
+pandas
 numpy
-pickle
 scikit-learn
+pymongo
